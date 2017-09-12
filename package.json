@@ -138,7 +138,7 @@
   },
   "scripts": {
     "test": "jest",
-    "postinstall": "npm install -g reaction-cli && meteor npm install && meteor npm install --save react-addons-shallow-compare",
+    "postinstall": "npm install -g reaction-cli && meteor npm install --save react-addons-shallow-compare",
     "start": "reaction run"
   },
   "jest": {
