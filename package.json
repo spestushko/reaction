@@ -136,7 +136,8 @@
     }
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npm install -g reaction-cli && npm install && reaction"
   },
   "jest": {
     "moduleNameMapper": {
